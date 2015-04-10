@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Bacon Quotes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quote1">Okay, this is the wisdom. First, time spent on reconnaissanse is never wasted. Second, almost anything can be improved with the addition of bacon. And finally, there is no problem on Earth that can\'t be ameliorated by a hot bath and a cup of tea.
+― Jasper Fforde, Shades of Grey: The Road to High Saffron </string>
+    <string name="quote2">You worry too much. Eat some bacon...what? No, I got no idea if it\'ll make you feel better, I just made too much bacon.
+― Justin Halpern, Sh*t My Dad Says </string>
+    <string name="quote3">The question that women casually shopping for perfume ask more than any other is this: "What scent drives men wild?" After years of intense research, we know the definitive answer. It is bacon. Now, on to the far more interesting subject of perfume.
+― Tania Sanchez, Perfumes: The Guide </string>
+    <string name="quote4">I was rubbing the pieces of bacon like they were strands of a lover’s hair. Of course they weren’t, because all my exes had hair like scrambled eggs.
+― Jarod Kintz, Love quotes for the ages. Specifically ages 18-81. </string>
+    <string name="quote5">And hey, bacon made everything better.
+― Jennifer Estep, Spartan Frost </string>
+    <string name="quote6">Ethically, she couldn\'t cause the suffering of any living thing. Logically, bacon cheeseburgers were delicious.
+― Thomm Quackenbush, We Shadows
+</string>
+    <string name="quote7">Even apocalypse looks less dire when viewed over a plate of bacon.
+― Stephanie Stamm, A Gift of Wings
+</string>
+    <string name="quote8">Pigs might make great pets, but they make better breakfast. I’ll take one big snuggle, with a side of scrambled eggs.
+― Jarod Kintz, 99 Cents For Some Nonsense
+</string>
+    <string name="quote9">They don\'t go in for the fancy or exotic, but stick to conventional food like flightless bird embryos, minced organs in intestine skins, slices of hog flesh and burnt ground grass seeds dipped in animal fats; or, as it is known in their patois, egg, sausage, bacon and a fried slice of toast.
+― Terry Pratchett, Mort </string>
+    <string name="quote10">Bacon, The source of all happiness
+― Samuel Victor David Evans</string>
+    <string name="quote11">Love is the no noise in a bucket of sausage gravy. I would tell you how much you mean to me, but it’s more effective to show you, with a trash sack full of bacon strips. 
+― Jarod Kintz, My love can only occupy one person at a time
+</string>
+    <string name="quote12">We had a bacon love—even when it was bad, it was good. And crispy. 
+― Jarod Kintz, Love quotes for the ages. And the ageless sages. </string>
+    <string name="quote13">Life is too short not to order the bacon dessert.
+― George Takei, Oh Myyy! </string>
+    <string name="quote14">I only eat bacon socially.
+― Gina Barberi</string>
+    <string name="quote15">Its a proven fact that all plans involving bacon have a ninety percent better chance of working out.
+― Jeff Gunhus, Jack Templar And The Lord Of The Werewolves
+</string>
+    <string name="quote16">Porkchops and bacon, my two favorite animals. -  Homer Simpson</string>
+    <string name="quote17">"I\'d be a vegetarian if bacon grew on trees" - Homer Simpson</string>
+    <string name="quote18">Why was there BACON IN THE SOAP? - Zim, Invader Zim</string>
+    <string name="quote19">You\'re just like Bacon - You make everything better - Anon</string>
+    <string name="quote20">I want to grow my own food but I can\'t find bacon seeds - Anon</string>
+
+</resources>
