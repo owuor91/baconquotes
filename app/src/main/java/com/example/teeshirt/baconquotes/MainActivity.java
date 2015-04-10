@@ -24,7 +24,6 @@ public class MainActivity extends ActionBarActivity {
         baconslides.put("Quote 2",R.drawable.bacon2);
         baconslides.put("Quote 3",R.drawable.bacon3);
         baconslides.put("Quote 4",R.drawable.bacon4);
-        baconslides.put("Quote 5",R.drawable.bacon5);
 
         for (String name: baconslides.keySet()){
             TextSliderView baconSliderView = new TextSliderView(this);
